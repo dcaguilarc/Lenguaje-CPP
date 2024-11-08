@@ -1,0 +1,14 @@
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\bin\Debug\net8.0\Tarea1C#.exe
+C:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\bin\Debug\net8.0\Tarea1C#.deps.json
+C:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\bin\Debug\net8.0\Tarea1C#.runtimeconfig.json
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\bin\Debug\net8.0\Tarea1C#.dll
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\bin\Debug\net8.0\Tarea1C#.pdb
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\Tarea1C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\Tarea1C#.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\Tarea1C#.AssemblyInfo.cs
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\Tarea1C#.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\Tarea1C#.dll
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\refint\Tarea1C#.dll
+c:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\Tarea1C#.pdb
+C:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\Tarea1C#.genruntimeconfig.cache
+C:\Users\USER\Desktop\9no semestre\Progra Distribuida\Deber1\Tarea1C#\obj\Debug\net8.0\ref\Tarea1C#.dll
