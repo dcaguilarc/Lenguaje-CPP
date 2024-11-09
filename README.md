@@ -9,4 +9,4 @@ To open the program you **must follow these steps**.
 3. It will show you the option of `Introduce el radio del círculo`
 4. Put the number you want and press enter
 
-**El programa te mostrara cual es el area del circulo**
+**The program will show you what the area of ​​the circle is**
